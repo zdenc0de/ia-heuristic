@@ -190,7 +190,7 @@ function App() {
         <div className="flex-1 overflow-auto">
           {orderedRoutes.length > 0 && (
             <div className="px-4 py-2 bg-gray-50 border-b text-xs font-bold text-gray-500 uppercase tracking-wider flex items-center gap-2">
-              <ListOrdered size={14}/> Itinerario de Viaje
+              <ListOrdered size={14}/> Ruta
             </div>
           )}
           
